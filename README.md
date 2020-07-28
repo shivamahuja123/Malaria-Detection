@@ -1,2 +1,1 @@
 # Malaria-Detection
-In this project we will implement transfer learning in deep learning to predict Malaria Disease. My main focus would be to try out some simple CNN models from scratch and a couple of pre-trained models using transfer learning to see the kind of results we get on the same dataset! We will be using open-source tools and frameworks which include Python and TensorFlow to build our models.
